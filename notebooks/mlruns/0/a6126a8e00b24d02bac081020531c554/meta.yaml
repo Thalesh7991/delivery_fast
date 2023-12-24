@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/thale/Documents/Projetos_DS/projeto_aluno_mlflow/delivery_fast/notebooks/mlruns/0/a6126a8e00b24d02bac081020531c554/artifacts
+end_time: 1703423868089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6126a8e00b24d02bac081020531c554
+run_name: baseline
+run_uuid: a6126a8e00b24d02bac081020531c554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703423845259
+status: 4
+tags: []
+user_id: thale
