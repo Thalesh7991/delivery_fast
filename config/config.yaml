@@ -1,1 +1,12 @@
+columns_to_use: ['market_id', 'store_id',
+                  'store_primary_category', 'order_protocol', 'total_items', 'subtotal',
+                  'num_distinct_items', 'min_item_price', 'max_item_price',
+                  'total_onshift_dashers', 'total_busy_dashers',
+                  'total_outstanding_orders', 'estimated_order_place_duration',
+                  'estimated_store_to_consumer_driving_duration', 'target']
+
 dados_train: 'dados.csv'
+target_name: 'target'
+
+test_size: 0.2
+random_state: 42

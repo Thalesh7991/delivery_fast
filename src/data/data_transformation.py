@@ -22,7 +22,6 @@ class DataTransformation:
             X,
             y,
             test_size=load_config_file().get("test_size"),
-            stratify=y,
             random_state=load_config_file().get("random_state"),
         )
 
