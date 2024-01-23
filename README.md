@@ -1,4 +1,4 @@
-# Delivery Fast
+# Delivery Fast (em desenvolvimento...)
 
 ![DELIVERY](/delivery_ml.png)
 
