@@ -30,3 +30,7 @@
 |  estimated_order_place_duration |  Tempo estimado para o restaurante receber o pedido da Delivery Fast (em segundos); |
 |  estimated_store_to_consumer_driving_duration |  Tempo estimado de viagem entre o restaurante e o consumidor (em segundos); |
 
+## 3. Estratégia de Solução
+
+
+
