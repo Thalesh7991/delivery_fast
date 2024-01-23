@@ -54,5 +54,11 @@
 
 **Step 09. MLFlow Monitoring:** Utilizar a ferramenta MLFlow para monitorar todo pipeline de desenvolvimento de machine learning.
 
+## 4. Modelos de Machine Learning Aplicados
+
+## 5. Performance do Modelo de Machine Learning
+
+## 6. Resultados de Negócio (Projeto ainda em desenvolvimento...)
+
 
 
