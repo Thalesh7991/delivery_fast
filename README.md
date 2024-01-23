@@ -32,5 +32,27 @@
 
 ## 3. Estratégia de Solução
 
+![CRISP](/crisp_metodo.png)
+
+***Minha estratégia para resolver esse desafio foi:***
+
+**Step 01. Data Description:**  O objetivo é utilizar métricas estatísticas para identificar outliers no escopo do negócio.
+
+**Step 02. Feature Engineering:** Derivar novos atributos com base nas variáveis originais para descrever melhor o fenômeno a ser modelado.
+
+**Step 03. Data Filtering:** Filtrar as linhas e selecionar as colunas que não contenham informações para modelagem ou não correspondam ao escopo do negócio.
+
+**Step 04. Exploratory Data Analysis:** Explorar os dados para encontrar insights e entender melhor o impacto das variáveis no aprendizado do modelo.
+
+**Step 05. Data Preparation:** Preparar os dados para que os modelos de aprendizado de máquina possam aprender um comportamento específico.
+
+**Step 06. Feature Selection:** Seleção dos atributos mais significativos para treinar o modelo.
+
+**Step 07. Machine Learning Modelling:** Treinamento do modelo de aprendizado de máquina.
+
+**Step 08. Hyperparameter Fine Tunning:** Escolher os melhores valores para cada um dos parâmetros do modelo selecionado na etapa anterior.
+
+**Step 09. MLFlow Monitoring:** Utilizar a ferramenta MLFlow para monitorar todo pipeline de desenvolvimento de machine learning.
+
 
 
