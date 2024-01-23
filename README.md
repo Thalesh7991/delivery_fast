@@ -1,3 +1,3 @@
 # Delivery Fast
 
-![SALES](/sales_analysis.jpg)
+![DELIVERY](/delivery_ml.png)
